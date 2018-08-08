@@ -39,11 +39,10 @@ htmlRouts.js cintaints all the Routes for the Home page and Survey Page
 apiRoutes.js contains all teh api routes.
 index.html is the home page with Header and Selection button
 survey.html is a form input and survey questions and a submit button
-
-        ![](https://github.com/JPillai2018/NodeJSMySQL/blob/master/assets/images/Customer-1.PNG)
-        ![](https://github.com/JPillai2018/NodeJSMySQL/blob/master/assets/images/Customer-2.PNG)
-        ![](https://github.com/JPillai2018/NodeJSMySQL/blob/master/assets/images/Customer-3.PNG)
-        If incorrect Item code is entered a validation message will be displayed
-        ![](https://github.com/JPillai2018/NodeJSMySQL/blob/master/assets/images/Customer-4.PNG)
-        ![](https://github.com/JPillai2018/NodeJSMySQL/blob/master/assets/images/Customer-5.PNG)
-        ![](https://github.com/JPillai2018/NodeJSMySQL/blob/master/assets/images/Customer-6.PNG)
+![](https://github.com/JPillai2018/FriendsFinder/blob/master/DemoImages/Image1.png)
+![](https://github.com/JPillai2018/FriendsFinder/blob/master/DemoImages/Image2.PNG)
+![](https://github.com/JPillai2018/FriendsFinder/blob/master/DemoImages/Image3.PNG)
+![](https://github.com/JPillai2018/FriendsFinder/blob/master/DemoImages/Image4.PNG)
+![](https://github.com/JPillai2018/FriendsFinder/blob/master/DemoImages/Image5.PNG)
+![](https://github.com/JPillai2018/FriendsFinder/blob/master/DemoImages/Image6.PNG)
+![](https://github.com/JPillai2018/FriendsFinder/blob/master/DemoImages/Image7.PNG)
